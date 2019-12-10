@@ -1,6 +1,6 @@
 # Application-Form-Reader
 
-This project was made in a group of 4 students - 
+This project was made by a team of 4 students - 
 1. Siddharth Chandak
 2. Harsh Dolhare
 3. Abhishek Tanpure
